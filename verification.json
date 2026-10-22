@@ -1,0 +1,16 @@
+[
+  {
+    "file": "DropFlow_Biennale_Block_Dancer_24fps_v1.blend",
+    "bones": 33,
+    "animated": true,
+    "objects": 4,
+    "fps": 24
+  },
+  {
+    "file": "DropFlow_Biennale_Stage_Public_v1.blend",
+    "bones": 33,
+    "animated": true,
+    "objects": 23,
+    "fps": 24
+  }
+]
