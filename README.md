@@ -7,7 +7,7 @@
 文件放在 **GitHub Releases**，不需要 Git LFS。下载后用 Blender 打开。
 
 - [DropFlow_Biennale_Block_Dancer_24fps_v1.blend](https://github.com/ewanqian/dropflow-biennale-mocap/releases/download/v1.0.0/DropFlow_Biennale_Block_Dancer_24fps_v1.blend) — 推荐：方块舞者独立工程，包含 Cube、Sphere、Sphere.001 与 Reference 骨架；33 骨骼、24 fps，动作位于 NLA。适合改人物与制作分镜。
-- [DropFlow_Biennale_Raw_Mocap.bvh](https://github.com/ewanqian/dropflow-biennale-mocap/releases/download/v1.0.0/DropFlow_Biennale_Raw_Mocap.bvh) — 原始 BVH 动作数据。与舞台的 33 骨骼重定时版本不同，导入时请检查帧率与骨架映射，不要直接覆盖。
+- [DropFlow_Biennale_Raw_Mocap.zip](https://github.com/ewanqian/dropflow-biennale-mocap/releases/download/v1.0.0/DropFlow_Biennale_Raw_Mocap.zip) — 原始 BVH 动作数据（ZIP 无损压缩，解压后使用）。与舞台的 33 骨骼重定时版本不同，导入时请检查帧率与骨架映射，不要直接覆盖。
 - [DropFlow_Biennale_Stage_Public_v1.blend](https://github.com/ewanqian/dropflow-biennale-mocap/releases/download/v1.0.0/DropFlow_Biennale_Stage_Public_v1.blend) — 完整舞台公开副本：保留舞台、人物、相机和 NLA 动作；24 fps，时间线 0–10484。部分外部视频、图片与声音未包含，不能直接还原完整演出。
 
 ## 使用说明
