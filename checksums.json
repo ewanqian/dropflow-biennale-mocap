@@ -1,0 +1,17 @@
+[
+  {
+    "file": "DropFlow_Biennale_Block_Dancer_24fps_v1.blend",
+    "bytes": 72145082,
+    "sha256": "b181198780d9c8dacf4194e69023baba2f4c8fd234777df89f66c173ecd02306"
+  },
+  {
+    "file": "DropFlow_Biennale_Raw_Mocap.bvh",
+    "bytes": 66461242,
+    "sha256": "f3118dd68486ec73c33f04a61ea0ae488fb6bc90fe213269078a6146171a325d"
+  },
+  {
+    "file": "DropFlow_Biennale_Stage_Public_v1.blend",
+    "bytes": 75308611,
+    "sha256": "db6e605df950552bdf5726a10f3a576fdc4047bb3f0849b3455ff3d572210020"
+  }
+]
